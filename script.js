@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+
 const loginForm = document.getElementById("login-form");
 const SignupForm = document.getElementById("signup-form");
     
@@ -37,4 +37,3 @@ const SignupForm = document.getElementById("signup-form");
         loginForm.reset();
     });
 
-});
